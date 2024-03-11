@@ -23,3 +23,10 @@ export PROVIDER=all
 curl -LO "https://github.com/GoogleCloudPlatform/terraformer/releases/download/$(curl -s https://api.github.com/repos/GoogleCloudPlatform/terraformer/releases/latest | grep tag_name | cut -d '"' -f 4)/terraformer-${PROVIDER}-linux-amd64"
 chmod +x terraformer-${PROVIDER}-linux-amd64
 sudo mv terraformer-${PROVIDER}-linux-amd64 /usr/local/bin/terraformer
+
+sudo apt install awscli -y
+aws configure
+AKIA47CRVUV6MGCOIAHT
+5FxAwXR7HxgKxqzPJ+Vc/smG7ge9/T1wVkbjiVbC
+echo -e "\n" | command
+echo -e "\n" | command
