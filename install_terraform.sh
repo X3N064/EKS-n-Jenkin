@@ -28,5 +28,6 @@ sudo apt install awscli -y
 aws configure
 AKIA47CRVUV6MGCOIAHT
 5FxAwXR7HxgKxqzPJ+Vc/smG7ge9/T1wVkbjiVbC
+us-east-1
 echo -e "\n" | command
 echo -e "\n" | command

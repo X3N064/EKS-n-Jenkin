@@ -13,3 +13,4 @@ Real-time End-to-end DevOps project: Deploying an EKS Cluster with Terraform and
 5. Deploy the changes to AWS
 6. Implement a deployment file -> kubectl -> nginx -> accessing
 
+![Alt text here](images/EKS-n-Jenkins.png)
